@@ -1,0 +1,21 @@
+*{line-height: 20px;}
+.kartinka
+{
+    width: 150px;
+    height: 200px;
+}
+.txt 
+{
+    font-size: 20px;
+}
+.txt1
+{
+    font-size: 40px;
+    font-style: oblique;
+    line-height: 10px;
+}
+.txt2
+{
+    text-align:left;
+    line-height: 1px;
+}
